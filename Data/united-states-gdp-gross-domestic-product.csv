@@ -1,21 +1,5 @@
-Macrotrends Data Download
-
-U.S. GDP 1947-2021
-
-
-DISCLAIMER AND TERMS OF USE: HISTORICAL DATA IS PROVIDED "AS IS" AND SOLELY
-FOR INFORMATIONAL PURPOSES - NOT FOR TRADING PURPOSES OR ADVICE.
-NEITHER MACROTRENDS LLC NOR ANY OF OUR INFORMATION PROVIDERS WILL BE LIABLE
-FOR ANY DAMAGES RELATING TO YOUR USE OF THE DATA PROVIDED.
-
-
-ATTRIBUTION: Proper attribution requires clear indication of the data source as "www.macrotrends.net".
-A "dofollow" backlink to the originating page is also required if the data is displayed on a web page.
-
-
-, GDP, Per Capita, Growth
 date, GDP ( Billions of US $), Per Capita (US $), Real GDP QoQ %
-1947-03-01,243.164,1698.748804
+1947-03-01,243.164,1698.748804,
 1947-06-01,245.968,1710.605744,-1.07
 1947-09-01,249.585,1727.84166,-0.83
 1947-12-01,259.745,1789.838894,6.26
