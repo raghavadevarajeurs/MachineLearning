@@ -1,20 +1,4 @@
-Macrotrends Data Download
-
-U.S. Carbon (CO2) Emissions 1960-2021
-
-
-DISCLAIMER AND TERMS OF USE: HISTORICAL DATA IS PROVIDED "AS IS" AND SOLELY
-FOR INFORMATIONAL PURPOSES - NOT FOR TRADING PURPOSES OR ADVICE.
-NEITHER MACROTRENDS LLC NOR ANY OF OUR INFORMATION PROVIDERS WILL BE LIABLE
-FOR ANY DAMAGES RELATING TO YOUR USE OF THE DATA PROVIDED.
-
-
-ATTRIBUTION: Proper attribution requires clear indication of the data source as "www.macrotrends.net".
-A "dofollow" backlink to the originating page is also required if the data is displayed on a web page.
-
-
-, Total, Per Capita, 
-date, Kilotons of Co2, Metric Tons Per Capita, 
+date, Kilotons of Co2, Metric Tons Per Capita
 1960-12-31,2890696.1,15.9998
 1961-12-31,2880505.507,15.6813
 1962-12-31,2987207.873,16.0139
