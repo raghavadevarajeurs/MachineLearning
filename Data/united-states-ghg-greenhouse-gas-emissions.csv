@@ -1,21 +1,5 @@
-Macrotrends Data Download
-
-U.S. Greenhouse Gas (GHG) Emissions 1970-2021
-
-
-DISCLAIMER AND TERMS OF USE: HISTORICAL DATA IS PROVIDED "AS IS" AND SOLELY
-FOR INFORMATIONAL PURPOSES - NOT FOR TRADING PURPOSES OR ADVICE.
-NEITHER MACROTRENDS LLC NOR ANY OF OUR INFORMATION PROVIDERS WILL BE LIABLE
-FOR ANY DAMAGES RELATING TO YOUR USE OF THE DATA PROVIDED.
-
-
-ATTRIBUTION: Proper attribution requires clear indication of the data source as "www.macrotrends.net".
-A "dofollow" backlink to the originating page is also required if the data is displayed on a web page.
-
-
-, , , 
-date, kt of CO2 equivalent, Annual % Change, 
-1970-12-31,5400503.5
+date, kt of CO2 equivalent, Annual % Change 
+1970-12-31,5400503.5,
 1971-12-31,5440420.62,0.74
 1972-12-31,5704297.25,4.85
 1973-12-31,5912971.38,3.66
