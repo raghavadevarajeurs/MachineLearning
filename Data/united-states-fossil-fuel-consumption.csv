@@ -1,21 +1,5 @@
-Macrotrends Data Download
-
-U.S. Fossil Fuel Consumption 1960-2021
-
-
-DISCLAIMER AND TERMS OF USE: HISTORICAL DATA IS PROVIDED "AS IS" AND SOLELY
-FOR INFORMATIONAL PURPOSES - NOT FOR TRADING PURPOSES OR ADVICE.
-NEITHER MACROTRENDS LLC NOR ANY OF OUR INFORMATION PROVIDERS WILL BE LIABLE
-FOR ANY DAMAGES RELATING TO YOUR USE OF THE DATA PROVIDED.
-
-
-ATTRIBUTION: Proper attribution requires clear indication of the data source as "www.macrotrends.net".
-A "dofollow" backlink to the originating page is also required if the data is displayed on a web page.
-
-
-, , , 
-date, % of Total Energy Use, Annual Change, 
-1960-12-31,95.5257
+date, % of Total Energy Use, Annual Change
+1960-12-31,95.5257,
 1961-12-31,95.5668,0.04
 1962-12-31,95.6055,0.04
 1963-12-31,95.7693,0.16
